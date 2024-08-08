@@ -1,0 +1,3 @@
+#!/Users/louisadibe/Documents/Portfolio/Projects/Data_Engineering_Projects/DataPipeLine_Project/venv/bin/python
+from spark import spark_admin
+spark_admin.main()
